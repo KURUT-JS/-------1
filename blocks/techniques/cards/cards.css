@@ -4,6 +4,6 @@
   width: 920px;
   column-gap: 100px;
   row-gap: 60px;
-  margin-block-start: 0;
-  padding-inline-start: 0;
+  margin: 0px;
+  padding: 0px;
 }
